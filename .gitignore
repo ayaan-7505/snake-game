@@ -1,0 +1,47 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+/.vs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+ipch/
+*.pdb
+*.exe
+*.ilk
+*.idb
+*.lib
+*.log
+*.obj
+*.pch
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tmp
+*.vsix
+*.swp
+
+# SFML DLLs
+*.dll
+
+# Other binaries
+*.bin
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
